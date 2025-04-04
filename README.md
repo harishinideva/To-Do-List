@@ -11,6 +11,7 @@ A simple and interactive To-Do List app built with Python using the Tkinter GUI 
 🪟 User-friendly GUI using Tkinter
 
 🔁 Real-time task updates
+
 -------------------
 💻 Technologies Used
 1.Python 3
